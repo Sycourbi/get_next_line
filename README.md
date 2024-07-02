@@ -7,7 +7,7 @@ Bienvenue sur le dépôt du projet get_next_line de l'École 42. Ce projet consi
 ## Badge et Note Obtenu
 
 <div align="center">
-  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linem.png?raw=true"alt="Badge du projet skill-icons">
+  <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/get_next_linem.png?raw=true"alt="Badge du projet get_next_line">
 </div>
 
 ## Installation
