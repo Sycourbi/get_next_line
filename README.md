@@ -1,5 +1,8 @@
 # get_next_line
 
+![C Language](https://img.shields.io/badge/language-C-blue)
+![File I/O](https://img.shields.io/badge/file%20I/O-yes-brightgreen)
+
 ## Description
 
 Bienvenue sur le dépôt du projet get_next_line de l'École 42. Ce projet consiste à implémenter une fonction en C appelée get_next_line, permettant de lire une ligne terminée par un retour à la ligne depuis un descripteur de fichier donné (comme STDIN_FILENO).
