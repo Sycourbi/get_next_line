@@ -2,6 +2,8 @@
 
 ![C Language](https://img.shields.io/badge/language-C-blue)
 ![File I/O](https://img.shields.io/badge/file%20I/O-yes-brightgreen)
+![42](https://img.shields.io/badge/school-42-green)
+![42 Paris](https://img.shields.io/badge/42-Paris-blue)
 
 ## Description
 
